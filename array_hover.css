@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    border-color: blueviolet;
+}
+th{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    height: 30px;
+}
+td{
+    width: 100px;
+    height: 30px;
+}
+tr:hover{
+    background-color: blueviolet;
+    color: white;
+    transition: 0.3s;
+}
